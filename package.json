@@ -1,0 +1,28 @@
+{
+  "name": "pod-dapp",
+  "version": "1.0.0",
+  "description": "proof of delivery of physical assets using ethereum blockchain",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Xerenz/POD-Dapp.git"
+  },
+  "keywords": [
+    "Blockchain"
+  ],
+  "author": "Martin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Xerenz/POD-Dapp/issues"
+  },
+  "homepage": "https://github.com/Xerenz/POD-Dapp#readme",
+  "devDependencies": {
+    "web3": "^1.2.7",
+    "webpack": "^4.43.0",
+    "webpack-cli": "^3.3.11",
+    "webpack-dev-server": "^3.11.0"
+  }
+}
